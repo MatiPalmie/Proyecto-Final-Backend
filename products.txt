@@ -1,0 +1,61 @@
+[
+  {
+    "nombre": "Calibre",
+    "description": "Metálico, Digital",
+    "codigo": 1,
+    "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Sliding_scale-128.png",
+    "precio": "1200",
+    "stock": 200,
+    "id": 1,
+    "timestamp": 1656037438021
+  },
+  {
+    "nombre": "Taladro",
+    "description": "Mandril 13mm, autoajustable",
+    "codigo": 2,
+    "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Drill-128.png",
+    "precio": "5000",
+    "stock": 80,
+    "id": 2,
+    "timestamp": 1656037503874
+  },
+  {
+    "nombre": "Cinta Métrica",
+    "description": "5mts",
+    "codigo": 3,
+    "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Measuring_tape-128.png",
+    "precio": "800",
+    "stock": 500,
+    "id": 3,
+    "timestamp": 1656037553321
+  },
+  {
+    "nombre": "Serrucho",
+    "description": "Para Madera",
+    "codigo": 4,
+    "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Saw-128.png",
+    "precio": "950",
+    "stock": 100,
+    "id": 4,
+    "timestamp": 1656037595360
+  },
+  {
+    "nombre": "Martillo",
+    "description": "1.5kg",
+    "codigo": 5,
+    "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Hammer-128.png",
+    "precio": "1000",
+    "stock": 150,
+    "id": 5,
+    "timestamp": 1656037636085
+  },
+  {
+    "nombre": "Destornillador",
+    "description": "Pala",
+    "codigo": 6,
+    "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Screwdriver-128.png",
+    "precio": "700",
+    "stock": 200,
+    "id": 6
+  }
+]

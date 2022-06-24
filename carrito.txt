@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "timestamp": 1656036073234,
+    "productos": [
+      {
+        "nombre": "Calibre",
+        "precio": "1200",
+        "foto": "https://cdn1.iconfinder.com/data/icons/construction-tool-line-foreman-equipment/512/Sliding_scale-128.png",
+        "id": 1,
+        "_locals": {}
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "timestamp": 1656036074236,
+    "productos": []
+  },
+  {
+    "id": 3,
+    "timestamp": 1656036074629,
+    "productos": []
+  },
+  {
+    "id": 4,
+    "timestamp": 1656036075318,
+    "productos": []
+  }
+]
